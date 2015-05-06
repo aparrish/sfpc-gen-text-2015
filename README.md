@@ -29,7 +29,7 @@ Exercises:
 
 ##Session 03
 
-* [Markov chain text generation](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
-* [Context-free grammar text generation](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/)
-* [CMU pronouncing dictionary](https://github.com/aparrish/gen-text-workshop/blob/master/cmu_pronouncing_dictionary_notes.md)
+* [Markov chain text generation](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/) ([My Python implementation](https://github.com/aparrish/rwet-examples/blob/master/ngrams/markov.py))
+* [Context-free grammar text generation](http://www.decontextualize.com/teaching/rwet/recursion-and-context-free-grammars/) ([Example code](https://github.com/aparrish/rwet-examples/blob/master/contextfree/contextfree.py) and [grammar](https://github.com/aparrish/rwet-examples/blob/master/contextfree/test_grammar.json))
+* [CMU pronouncing dictionary](https://github.com/aparrish/gen-text-workshop/blob/master/cmu_pronouncing_dictionary_notes.md) (example code linked from notes)
 
